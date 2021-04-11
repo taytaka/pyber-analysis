@@ -3,7 +3,7 @@
 ## Overview
 The purpose of this analysis is to provide a summary of ride-sharing data by city type. With this data, we can show how the number rides is affected by city type and fare amount to help PyBer make better informed decisions. 
 
-#### Resources
+### Resources
 - Data source: city_data.csv, ride_data.csv
 - Software: Python 3.7.6, Jupyter Notebook
 
