@@ -9,7 +9,7 @@ The purpose of this analysis is to provide a summary of ride-sharing data by cit
 
 ## Results
 - Based on my analysis, PyBer has the least amount of business in rural cities. They have fewer drivers and higher fares, which may have a correlation with the low number of rides compared with suburban and urban cities. Urban cities, unsurprisingly, have the highest number of rides. While part of these numbers are impacted by the population of the cities, it can be inferred that a high fare for riders discourages them from riding.
--  ![df_summary.png](analysis/df_summary.png)
+  ![df_summary.png](analysis/df_summary.png)
 - There seemed to be a uptick in fare prices or number of rides in February, so further analysis should be made to see the reason behind this peak. An interesting part of this peak is it occurred in all three city types around the same time. ![PyBer_fare_summary.png](analysis/PyBer_fare_summary.png)
 
 ## Summary
